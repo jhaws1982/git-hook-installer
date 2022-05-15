@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/jhaws1982/git-hook-installer.svg)](https://github.com/jhaws1982/git-hook-installer/blob/master/LICENSE)
+
 # git-hook-installer
 
 I needed a script to easily install new git hooks to any repository, including submodules. All that is required is to download the script to a known location (I like to keep all my hooks together in one location) and run this script, pointing it at the script, the name of the hook, and the repository.
